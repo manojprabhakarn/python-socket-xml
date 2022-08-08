@@ -1,0 +1,32 @@
+<DataSet>
+    <Record>
+        <Identifier>
+            <MRN value="MRN1"></MRN>
+        </Identifier>
+        <Medication>
+            <Item value="CUI1"></Item>
+            <Item value="CUI2"></Item>
+            <Item value="CUI3"></Item>
+        </Medication>
+    </Record>
+    <Record>
+        <Identifier>
+            <MRN value="MRN1"></MRN>
+        </Identifier>
+        <Medication>
+            <Item value="CUI1"></Item>
+            <Item value="CUI2"></Item>
+            <Item value="CUI3"></Item>
+        </Medication>
+    </Record>
+    <Record>
+        <Identifier>
+            <MRN value="MRN2"></MRN>
+        </Identifier>
+        <Medication>
+            <Item value="CUI1"></Item>
+            <Item value="CUI2"></Item>
+            <Item value="CUI3"></Item>
+        </Medication>
+    </Record>
+</DataSet>
